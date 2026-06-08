@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+Flask
+FastAPI
+Ollama
+docarray
+faiss-cpu
